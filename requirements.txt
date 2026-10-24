@@ -1,0 +1,8 @@
+langgraph
+langchain-core
+langchain-google-genai   # default: Gemini free tier
+langchain-groq           # optional: Groq free tier
+# langchain-ollama       # optional: fully local, needs decent RAM
+google-api-python-client
+google-auth-oauthlib
+python-dotenv
